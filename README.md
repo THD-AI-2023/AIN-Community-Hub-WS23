@@ -2,6 +2,8 @@
 
 Dive into the hub of AIN 2023 where students collaboratively share insights and engage in vibrant discussions. While this hub isn't a platform for homework submissions or for directly reaching out to professors, it's an invaluable space for deepening your understanding and connecting with your peers in the AI English Major program.
 
+![DALL·E 2023-10-17 11 33 40 - Oil painting drawing inspiration from Vermeer's 'The Art of Painting'  A student sits at a desk, working on an AI project on a futuristic device, whil](https://github.com/THD-AI-2023/AIN-Community-Hub-WS23/assets/66517969/c4d75d7c-e267-4ece-be2d-d1806b09efe9)
+
 ## Explore the Hub:
 
 1. **Contribute Resources**: Share your unique resource links and offer a fresh perspective that might just be the key to unlocking a concept for someone.
