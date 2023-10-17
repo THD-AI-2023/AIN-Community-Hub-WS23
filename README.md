@@ -14,7 +14,7 @@ Dive into the hub of AIN 2023 where students collaboratively share insights, lec
   A: This hub is a student-led initiative. While it revolves around the academic program, it operates independently from the university.
 
 - **Q: Eager to contribute? How do I go about it?**   
-  A: Begin by checking out the [Contributing Guidelines](CONTRIBUTING.MD) for a seamless contribution process.
+  A: Begin by checking out the [Contributing Guidelines][1] for a seamless contribution process.
 
 - **Q: Can I upload my assignments here?**  
   A: This isn't the space for homework submissions. Specific repositories are designated for each subject's assignments.
@@ -36,4 +36,6 @@ Join hands with us to make our academic journey collaborative, insightful, and d
 
 --- 
 
-For those with a spark to contribute, our [Contributing Guidelines](CONTRIBUTING.MD) awaits to guide you.
+For those with a spark to contribute, our [Contributing Guidelines][1] awaits to guide you.
+
+[1]: https://github.com/THD-AI-2023/AIN-Community-Hub-WS23/blob/main/CONTRIBUTING.md
