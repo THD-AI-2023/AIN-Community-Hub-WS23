@@ -1,6 +1,6 @@
 # Welcome to AIN-Community-Hub-WS23! 🌟
 
-Dive into the hub of AIN 2023 where students collaboratively share insights, lecture notes, and engage in vibrant discussions. While this hub isn't a platform for homework submissions or for directly reaching out to professors, it's an invaluable space for deepening your understanding and connecting with your peers in the AI English Major program.
+Dive into the hub of AIN 2023 where students collaboratively share insights and engage in vibrant discussions. While this hub isn't a platform for homework submissions or for directly reaching out to professors, it's an invaluable space for deepening your understanding and connecting with your peers in the AI English Major program.
 
 ## Explore the Hub:
 
