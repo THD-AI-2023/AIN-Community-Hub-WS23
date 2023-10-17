@@ -4,7 +4,7 @@ Dive into the hub of AIN 2023 where students collaboratively share insights and 
 
 ## Explore the Hub:
 
-1. **Contribute Lecture Notes**: Share your unique lecture notes and offer a fresh perspective that might just be the key to unlocking a concept for someone.
+1. **Contribute Resources**: Share your unique resource links and offer a fresh perspective that might just be the key to unlocking a concept for someone.
 2. **Update Homework Descriptions**: Use the GitHub project feature table to revise and update homework descriptions, ensuring clarity and relevance.
 3. **Join Discussions**: While this isn't a direct channel to professors (please use ilearn.th-deg.de for that), it's the prime spot for peer-to-peer discussions.
 
