@@ -1,5 +1,3 @@
-# CONTRIBUTING.MD
-
 ## Guidelines for Contributing to AIN-Community-Hub-WS23
 
 Thank you for considering contributing to AIN-Community-Hub-WS23! Before you start, it's essential to understand the purpose and limits of this repository.
